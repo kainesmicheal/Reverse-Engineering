@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "01a6c64e5f608a61",
+    "type": "split",
+    "children": [
+      {
+        "id": "41ff6cb6bbdd8b48",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Example 2.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2b18e54d6474079",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0ba418471e9b556",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4ac9cd7ec2d01e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9c36d90304ff04b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d512e3885937986",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebcd1f611d67de30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47c2c7d82282c9bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Example 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "41ff6cb6bbdd8b48",
+  "lastOpenFiles": [
+    "Example 2.md",
+    "Example 1.md",
+    "android application fundamentals.md",
+    "Untitled.md",
+    "Dalvik Bytecode.md"
+  ]
+}
